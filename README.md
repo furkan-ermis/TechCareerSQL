@@ -52,7 +52,6 @@ kesildiği turist ve toplam ücret bilgileri gösterilmelidir. Fatura numarası 
 “FTR20220110002” şeklinde bir bilgidir. Yetkili istediği faturayı bu bilgi ile arayarak bulabilmelidir. 
  
 ## Raporlar 
----
 Şirket yetkilisi rapor ekranından aşağıda listelenen raporların sonucunu görmelidir. 
 1. En çok gezilen yer/yerler neresidir? 
 2. Ağustos ayında en çok çalışan rehber/rehberler kimdir/kimlerdir? 
