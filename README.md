@@ -1,13 +1,13 @@
 # TechCareerSQL
 Sql Bootcamp
 ---
-our Company Projesi  
+# Tour Company Projesi  
 Bu doküman geliştirilecek Tour Company adlı uygulamanın analizini içermektedir. Projenin amacı turizm 
-sektöründe hizmet veren Tour Company isimli firmanın organizasyonunu yönetebilmesidir. 
+sektöründe hizmet veren Tour Company isimli firmanın organizasyonunu yönetebilmesidir. <br/>
 Tour Company isimli şirket, İstanbul’un çeşitli yerlerini rehberler eşliğinde turistlere gezdiren ve tanıtan 
-bir şirkettir. Düzenlediği turlar günübirlik turlardır. 
+bir şirkettir. Düzenlediği turlar günübirlik turlardır. <br/>
 Uygulama ile düzenlenen turlar belirlenecek, belirlenen turların satışı yapılabilecektir. Şirketle çalışan 
-rehberler de uygulama üzerinde tanımlanabilecektir. 
+rehberler de uygulama üzerinde tanımlanabilecektir. <br/>
  
 • Uygulamayı sadece şirket yetkilisi kullanacaktır. 
 • Uygulama üzerinde tur şirketinin hizmet verdiği bölgeler tanımlanmalıdır. Şirket yetkilisi tur 
