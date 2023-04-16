@@ -15,8 +15,8 @@ rehberler de uygulama üzerinde tanımlanabilecektir. <br/>
 - Turlara katılacak turistlerin bilgileri girilecek ve ardından fatura oluşturulacaktır. 
 - Şirket tur satışını uygulamaya girerken çalıştığı rehberlerden birini seçecektir. 
  
-Kullanım Senaryoları  
-Tur Tanımlama 
+## Kullanım Senaryoları  
+### **Tur Tanımlama** 
 Şirket yetkilisi tur tanımlaması yaparken, sistemde kayıtlı hizmet verdiği yerlerden en az 1, en fazla 3 
 tanesini seçebilir. Tura bir isim vererek tanımlamayı tamamlar. Tur ismi en fazla 150 karakter olabilir. 
 Tur tanımlayabilmek için önceden hizmet verdiği bölgeleri sisteme girmelidir. İlgili ekrandan bu girişleri 
