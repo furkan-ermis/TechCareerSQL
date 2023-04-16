@@ -9,12 +9,11 @@ bir şirkettir. Düzenlediği turlar günübirlik turlardır. <br/>
 Uygulama ile düzenlenen turlar belirlenecek, belirlenen turların satışı yapılabilecektir. Şirketle çalışan 
 rehberler de uygulama üzerinde tanımlanabilecektir. <br/>
  
-• Uygulamayı sadece şirket yetkilisi kullanacaktır. 
-• Uygulama üzerinde tur şirketinin hizmet verdiği bölgeler tanımlanmalıdır. Şirket yetkilisi tur 
-tanımlaması yaparken gezilecek bölgeleri seçecektir. 
-• Şirket farklı kanallardan yaptığı satışları da uygulama üzerinden sisteme girecektir. 
-• Turlara katılacak turistlerin bilgileri girilecek ve ardından fatura oluşturulacaktır. 
-• Şirket tur satışını uygulamaya girerken çalıştığı rehberlerden birini seçecektir. 
+- Uygulamayı sadece şirket yetkilisi kullanacaktır. 
+- Uygulama üzerinde tur şirketinin hizmet verdiği bölgeler tanımlanmalıdır. Şirket yetkilisi tur tanımlaması yaparken gezilecek bölgeleri seçecektir. 
+- Şirket farklı kanallardan yaptığı satışları da uygulama üzerinden sisteme girecektir. 
+- Turlara katılacak turistlerin bilgileri girilecek ve ardından fatura oluşturulacaktır. 
+- Şirket tur satışını uygulamaya girerken çalıştığı rehberlerden birini seçecektir. 
  
 Kullanım Senaryoları  
 Tur Tanımlama 
