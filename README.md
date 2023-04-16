@@ -25,7 +25,7 @@ bölgelerin ücretlerinin toplamıdır. Bölge adı en fazla 30 karakter olmalı
 Şirket yetkilisi yeni bölgeler girebilir, olan bölgeleri silebilir. Ayrıca bölgeler için geçerli hizmet ücretlerini 
 değiştirebilir. Satışı yapılmamış turlar üzerinde değişiklik yapabilir veya turu iptal edebilir. 
  
-Tur Satışı Yapma 
+### **Tur Satışı Yapma** 
 Şirket yetkilisi ilgili ekran üzerinden tur satışlarını sisteme girmelidir. Satışı yapılan turu ve bu tura 
 katılacak turisti/turistleri belirtmelidir. Turun gerçekleşeceği tarihi ve bu turda görevlendireceği rehberi 
 de yine bu ekran üzerinden girmelidir. 
@@ -34,7 +34,7 @@ Eğer daha önce de tur sattığı bir turistse, bu bilgileri tekrar girmemeli v
 eklemelidir. 
 Ad en fazla 20, soyad ise en fazla 40 karakter olmalıdır.  
  
-Rehber Tanımlama 
+### **Rehber Tanımlama** 
 Şirket çalıştığı rehberlerin kaydını sistemde tutacaktır. Şirket yetkilisi rehber ekleyebilir, rehber bilgilerini 
 düzenleyebilir ve çalışmayı sonlandırdığı rehberi sistemden kaldırabilir. 
 Rehber eklerken ad, soyad, cinsiyet, telefon numarası bilgilerini girmelidir. Rehberler en az bir yabancı dil 
@@ -42,7 +42,7 @@ bilmektedir ve sisteme eklenirken bu bilgi de tanımlanmalıdır. Rehberlerin he
 bölgeler hakkında bilgi sahibidir. 
 Rehberlerin adı en fazla 20, soyadı en fazla 40 karakter olmalıdır. 
  
-Fatura Oluşturma 
+### **Fatura Oluşturma** 
 Satış yetkilisi, turların satışını sisteme girdikten sonra satın alan turist için fatura oluşturacaktır. Bir turist 
 aynı anda birden fazla tur satın alabilir. Bu durumda her tur satışı birer fatura kalemi olmalıdır. 
 Fatura ücreti içerdiği turların toplam ücretidir. Turların ücreti belirlenirken katılacak turistlerden 60 yaş 
@@ -51,7 +51,8 @@ Satış yetkilisi sistemde kayıtlı faturaları görüntüleyebilir. Fatura num
 kesildiği turist ve toplam ücret bilgileri gösterilmelidir. Fatura numarası “FTR20220110001”, 
 “FTR20220110002” şeklinde bir bilgidir. Yetkili istediği faturayı bu bilgi ile arayarak bulabilmelidir. 
  
-Raporlar 
+## Raporlar 
+---
 Şirket yetkilisi rapor ekranından aşağıda listelenen raporların sonucunu görmelidir. 
 1. En çok gezilen yer/yerler neresidir? 
 2. Ağustos ayında en çok çalışan rehber/rehberler kimdir/kimlerdir? 
