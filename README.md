@@ -3,7 +3,7 @@ Sql Bootcamp
 ---
 # Tour Company Projesi  
 ![](/travel-with-landmarks.jpg)
-![](/diagram.png)
+
 Bu doküman geliştirilecek Tour Company adlı uygulamanın analizini içermektedir. Projenin amacı turizm 
 sektöründe hizmet veren Tour Company isimli firmanın organizasyonunu yönetebilmesidir. <br/>
 Tour Company isimli şirket, İstanbul’un çeşitli yerlerini rehberler eşliğinde turistlere gezdiren ve tanıtan 
@@ -16,7 +16,8 @@ rehberler de uygulama üzerinde tanımlanabilecektir. <br/>
 - Şirket farklı kanallardan yaptığı satışları da uygulama üzerinden sisteme girecektir. 
 - Turlara katılacak turistlerin bilgileri girilecek ve ardından fatura oluşturulacaktır. 
 - Şirket tur satışını uygulamaya girerken çalıştığı rehberlerden birini seçecektir. 
- 
+ ---
+ ![](/diagram.png)
 ## Kullanım Senaryoları  
 ### **Tur Tanımlama** 
 Şirket yetkilisi tur tanımlaması yaparken, sistemde kayıtlı hizmet verdiği yerlerden en az 1, en fazla 3 
